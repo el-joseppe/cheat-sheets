@@ -14,7 +14,7 @@ Well that's the real elephant in the room, isn't it? Especially if one is alread
 - mobile-friendly - all of google's services I use are accessible via native mobile-apps 
 - fast - all of google's services I use are accessible whenever I need them and I never had a problem with there performance or reaction time
 
-Those 3 points are allready tough enough to find an equal replacement. There are easier cases like passwords ore browsers mostly due to the fact that great alternatives are available, that are as good or in some cases even better than their google-counterpart. But in other cases like Mail, Photos or Drive good alternatives are either costly or require a lot of tech-skills or simply don't exist. 
+Those 3 points are already tough enough to find an equal replacement. There are easier cases like passwords ore browsers mostly due to the fact that great alternatives are available, that are as good or in some cases even better than their google-counterpart. But in other cases like Mail, Photos or Drive good alternatives are either costly or require a lot of tech-skills or simply don't exist. 
 
 ## List of alternatives
 | Google Service | alternative |
