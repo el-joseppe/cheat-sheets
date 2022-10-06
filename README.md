@@ -42,7 +42,11 @@ These are topics/tools/things I want to try out or allready use and therefore wa
 - linux
 	- oh-my-zsh
 	- ubuntu
+- tools
+	- obsidian
+	- KiTTY
 - how-to's
 	- how to selfhost a website
 	- how to Split-DNS with pihole
 	- how to sync & backup a iPhone with selfhosted infrastructure
+	- how to de-google with selfhosted apps
