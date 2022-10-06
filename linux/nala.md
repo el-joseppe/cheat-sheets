@@ -25,15 +25,15 @@ sudo apt update && sudo apt install nala
 ```
 
 ## command reference
-| command | what ist does |
-|---|---|
-| `nala update` | update package list |
-| `nala upgrade` | update package list and upgrade the system |
-| `nala install --update <name>` | install packages and update the package list before |
-| `nala list -i` | list installed packages |
-| `nala history` | show transaction history |
-| `nala history info [ID]` | show information about a specific transaction. "last" can be used as ID |
-| `nala history undo [ID]` | undo the specific transaction |
+| command                        | what ist does                                                           |
+| ------------------------------ | ----------------------------------------------------------------------- |
+| `nala update`                  | update package list                                                     |
+| `nala upgrade`                 | update package list and upgrade the system                              |
+| `nala install --update <name>` | install packages and update the package list before                     |
+| `nala list -i`                 | list installed packages                                                 |
+| `nala history`                 | show transaction history                                                |
+| `nala history info [ID]`       | show information about a specific transaction. "last" can be used as ID |
+| `nala history undo [ID]`       | undo the specific transaction                                           |
 
 ## links
 - https://gitlab.com/volian/nala
