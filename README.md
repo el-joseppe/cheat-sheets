@@ -1,11 +1,14 @@
 # Joseppe's "cheat-sheets"
 
-Hello everybody! 
+Hello everybody! 🚀
 
 I'm Joseph. This repo is part of my personal knowledge-base. Here you'll find tips, code-snippets, and command references for the tools I personally use or play around with.
 
+## got something to add?
+If you would like to add to or correct something in this repo, feel free to contact me or create a pull request. That would be really cool 🙂
+
 ## Wishlist
-These are topics, tools, things I want to try out or allready use and therefore may need some documentation in this repo:
+These are topics/tools/things I want to try out or allready use and therefore want to add in this repo:
 - infrastructure
 	- QNAP
 	- Proxmox
