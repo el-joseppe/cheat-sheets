@@ -34,3 +34,7 @@ sudo apt update && sudo apt install nala
 | `nala history` | show transaction history |
 | `nala history info [ID]` | show information about a specific transaction. "last" can be used as ID |
 | `nala history undo [ID]` | undo the specific transaction |
+
+## links
+- https://gitlab.com/volian/nala
+- https://trendoceans.com/nala-package-manager/
