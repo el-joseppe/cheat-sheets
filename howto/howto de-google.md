@@ -6,7 +6,7 @@ But all the convenience Google provides has also it's con's and downside's as we
 Here I want to give a quick overview of the reasons why one would choose to avoid using one of google's services and more importantly, what options are out there to replace those services with an emphasis on self-hostable options. 
 
 ## Why to de-google
-Because of reasons ... I have to put a bit more thought into this!
+Because of reasons ... I have to put a bit more thought into this section 😉
 
 ## How to actually do it?
 Well that's the real elephant in the room, isn't it? Especially if one is already deeply invested in google's services, there are plenty of question marks how one can maintain an acceptable level of convenience, usability, availability, look and feel and price with the alternatives that are out there. There are many reasons that make google's services great, but these stand out at least for me:
