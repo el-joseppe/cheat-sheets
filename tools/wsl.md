@@ -34,3 +34,4 @@ nameserver 4.4.4.4
 ```
 see:
 - https://askubuntu.com/questions/1347712/make-etc-resolv-conf-changes-permanent-in-wsl-2
+- https://adamtheautomator.com/windows-subsystem-for-linux/
