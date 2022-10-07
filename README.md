@@ -19,7 +19,7 @@ I'm Joseph. This repo is part of my personal knowledge-base. Here you'll find ti
 If you would like to add to or correct something in this repo, feel free to contact me or create a pull request. That would be really cool 🙂
 
 ## Wishlist
-These are topics/tools/things I want to try out or allready use and therefore want to add in this repo:
+These are topics/tools/things I want to try out or already use and therefore want to add in this repo:
 - infrastructure
 	- QNAP
 	- Proxmox
