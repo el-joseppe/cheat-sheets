@@ -9,6 +9,7 @@ I'm Joseph. This repo is part of my personal knowledge-base. Here you'll find ti
 	- [How to de-google](howto/howto%20de-google.md)
 - linux
 	- [nala](linux/nala.md)
+	- [tmux](linux/tmux.md)
 - tools
 	- [git](tools/git.md)
 	- [obsidian](tools/obsidian.md)
