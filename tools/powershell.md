@@ -8,7 +8,7 @@ Resolve-DnsName -Name <dns>
 ```powershell
 nslookup <ip or address>
 ```
-Test-NetConnection
+## Test-NetConnection
 neat little "ping-like" tool to test connectability to a specific port:
 ```Powershell
 Test-NetConnection <ip or address> -p <port>
