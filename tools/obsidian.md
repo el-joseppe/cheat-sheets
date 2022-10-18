@@ -11,5 +11,12 @@ I like the clean look, that it is based on markdown, that it is free and open so
 - 👍👍👍 since a obsidian-vault is only based on simple text-files in the file-system it can be synced to whatever repository with whatever tool you may ever like 😆
 - 👍👍👍 it has a installer for windows that doesn't need an admin-account 
 
-## Links
+# useful plugins
+- Advanced Tables
+- Obsidian Git
+- Smart Typography
+- Emoji Shortcodes
+- Emoji Toolbar
+
+# links
 - https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git
