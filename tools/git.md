@@ -2,8 +2,8 @@
 
 # config
 
-- set global user.name: `git config --global user.name "Joseph Elsner"`
-- set global user.mail: `git config --global user.email "elsner.joseph@gmail.com"`
+- set global user.name: `git config --global user.name "John Doe"`
+- set global user.mail: `git config --global user.email "me@example.com"`
 - set global credential.helper: `git config --global credential.helper [cache, store, osxkeychain]`
     - `git config --global credential.helper store` → git saves credential in plaintext to `~/.git-credentials`
     - see [Link](https://techexpertise.medium.com/storing-git-credentials-with-git-credential-helper-33d22a6b5ce7)
