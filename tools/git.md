@@ -14,7 +14,8 @@
 - init local repository: `git init`
 - add something to index: `git add README.md`
 - commit something: `git commit -m "first commit"`
-- add remote repo: `git remote add origin https://gogs.elsner.club/ELSNER-NAS/repo.git`
+- add remote repo: `git remote add origin https://<url>/<user>/repo.git`
+- change remote repo: `git remote set-url origin https://<url>/<user>/repo.git``
 - push to specific branch: `git push -u origin master`
 - show status: `git status`
 - show diff for staged changes: `git diff --staged`
